@@ -5,4 +5,4 @@
 
 ## Hot sauces
 * [Toast](toast.md)
-* [white Sauce](white_sauce.md)
+* [White Sauce](white_sauce.md)
