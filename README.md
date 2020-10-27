@@ -4,3 +4,5 @@
 * [Guacamole](guacamole.md)
 
 ## Hot sauces
+* [Toast](toast.md)
+* [white Sauce](white_sauce.md)
